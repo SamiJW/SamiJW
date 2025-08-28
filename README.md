@@ -6,6 +6,8 @@ I'm Sami, currently majoring in Data Analytics with Business Administration cert
 - Data analysis and reporting using Google Sheets and Excel.
 - Building relational database schemas 
 
+## You can view my projects [here](https://github.com/SamiJW/Building-A-Database-Schema) 
+
 <!--
 **SamiJW/SamiJW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
