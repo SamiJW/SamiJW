@@ -1,6 +1,5 @@
 ## Hello!
 I'm Sami, currently majoring in Data Analytics with Business Administration certification. My passion and expertise is in data modelling, analysis and reporting, database design, and query optimization. 
-- Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on PowerBI.
 - Data analysis and reporting using Google Sheets and Excel.
